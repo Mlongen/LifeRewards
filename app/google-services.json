@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212308766013",
+    "firebase_url": "https://rewardsapp-c061a.firebaseio.com",
+    "project_id": "rewardsapp-c061a",
+    "storage_bucket": "rewardsapp-c061a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212308766013:android:578d66cc1a0b6dad",
+        "android_client_info": {
+          "package_name": "com.marcelolongen.liferewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212308766013-ebl5io44gfs9rgs20eihnbu115fpcerb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marcelolongen.liferewards",
+            "certificate_hash": "1c5a6d056eb9dc09c9d1af45413297c8ee13fb73"
+          }
+        },
+        {
+          "client_id": "212308766013-fiirshk49bqcuksmh8qmvlt7vh95quj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SsjuT0g7zT1mqzrDUxg9vl1bHGZrp8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212308766013-fiirshk49bqcuksmh8qmvlt7vh95quj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
